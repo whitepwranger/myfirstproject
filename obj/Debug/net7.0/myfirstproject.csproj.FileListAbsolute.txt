@@ -1,0 +1,15 @@
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\bin\Debug\net7.0\myfirstproject.exe
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\bin\Debug\net7.0\myfirstproject.deps.json
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\bin\Debug\net7.0\myfirstproject.runtimeconfig.json
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\bin\Debug\net7.0\myfirstproject.dll
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\bin\Debug\net7.0\myfirstproject.pdb
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\myfirstproject.csproj.AssemblyReference.cache
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\myfirstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\myfirstproject.AssemblyInfoInputs.cache
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\myfirstproject.AssemblyInfo.cs
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\myfirstproject.csproj.CoreCompileInputs.cache
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\myfirstproject.dll
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\refint\myfirstproject.dll
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\myfirstproject.pdb
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\myfirstproject.genruntimeconfig.cache
+C:\Users\Peperoni\Desktop\newgit\myfirstproject\obj\Debug\net7.0\ref\myfirstproject.dll
